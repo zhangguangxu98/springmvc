@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/classes/log4j.properties=UTF-8
+encoding//src/com/springmvc/controller/AdminShowAllMyLogController.java=UTF-8
+encoding//src/com/springmvc/controller/AdminShowAllMyPlanController.java=UTF-8
